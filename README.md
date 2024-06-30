@@ -1,4 +1,4 @@
-Simple keylogger <br />
-Based on WinAPI "SetHook"
-Support Russian layout and punctuation marks
-For educational purposes only
+Simple keylogger writen in Rust (Tips for improving the code are welcome) <br />
+Based on WinAPI "SetHook"<br />
+Support Russian layout and punctuation marks<br />
+For educational purposes only<br />
