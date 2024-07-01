@@ -1,9 +1,8 @@
 # Simple keylogger 
-<p>Based on WinAPI hooking. 
-  Support Russian layout and punctuation marks.
-</p>
-For educational purposes only.<br />
-(Tips for improving the code are welcome)
+Based on WinAPI hooking. Support Russian layout and punctuation marks.
+
+### For educational purposes only.
+### (Tips for improving the code are welcome)
 
 
 
